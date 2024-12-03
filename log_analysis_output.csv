@@ -1,0 +1,4 @@
+Metric,Details
+Number of Requests per IP,"[{'IP': '10.0.0.2', 'Number of requests': 6}, {'IP': '192.168.1.1', 'Number of requests': 7}, {'IP': '192.168.1.100', 'Number of requests': 5}, {'IP': '198.51.100.23', 'Number of requests': 8}, {'IP': '203.0.113.5', 'Number of requests': 8}]"
+Most Frequent Endpoint,/login (Accessed 13 times)
+Suspicious Activity,"[{'IP': '203.0.113.5', 'Failed login attempts': 8}]"
